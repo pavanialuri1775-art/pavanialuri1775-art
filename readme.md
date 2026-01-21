@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python with DSA**
 
-- 👯 I’m looking to colloboratecollaborate on **collaborate on Beginner-friendly Python & AI projects**
+- 👯 I’m looking to collaborate on Beginner-friendly Python & AI projects**
 
 - 🤝 I’m looking for help with **artificial intelligence and machine learning road map**
 
