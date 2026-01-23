@@ -34,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanialuri1775-art&show_icons=true&locale=en" alt="pavanialuri1775-art" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavanialuri1775-art&" alt="pavanialuri1775-art" /></p>
+![Snake animation](https://raw.githubusercontent.com/pavanialuri1775-art/pavanialuri1775-art/output/github-contribution-grid-snake-dark.svg)
